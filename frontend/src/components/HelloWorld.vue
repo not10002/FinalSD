@@ -11,10 +11,6 @@
             <img src="../assets/wow2.png" width="400" height="100" >>
          </div>
       </div>
-      <div>
-          <button type="button">ลงทะเบียนจองคิว - Register</button>
-          <button type="button" class="btn btn-success">Success</button>
-      </div>
    </div>
 </template>
 
